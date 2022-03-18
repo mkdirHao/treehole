@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	//db.ArticleAdd()
+	db.ArticleAdd()
 	db.ArticleRealList()
 	beego.Run()
 
